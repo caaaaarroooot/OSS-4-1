@@ -3,4 +3,4 @@
 
 # classroom: https://github.com/2024OSS/4-assignment-4-1-react-hello-project-caaaaarroooot
 
-# netlify: https://main--oss-4-1-1.netlify.app/
+# netlify: https://main--oss-4-1-1.netlify.app/ && https://main--22100575hw2.netlify.app/js_ajax
